@@ -1,8 +1,0 @@
-C:\Users\berkb\OneDrive\Masaüstü\C#\LAb\Hafta2_Odev\Hafta2_Odev\obj\Debug\Hafta2_Odev.csproj.AssemblyReference.cache
-C:\Users\berkb\OneDrive\Masaüstü\C#\LAb\Hafta2_Odev\Hafta2_Odev\obj\Debug\Hafta2_Odev.csproj.SuggestedBindingRedirects.cache
-C:\Users\berkb\OneDrive\Masaüstü\C#\LAb\Hafta2_Odev\Hafta2_Odev\obj\Debug\Hafta2_Odev.csproj.CoreCompileInputs.cache
-C:\Users\berkb\OneDrive\Masaüstü\C#\LAb\Hafta2_Odev\Hafta2_Odev\bin\Debug\Hafta2_Odev.exe.config
-C:\Users\berkb\OneDrive\Masaüstü\C#\LAb\Hafta2_Odev\Hafta2_Odev\bin\Debug\Hafta2_Odev.exe
-C:\Users\berkb\OneDrive\Masaüstü\C#\LAb\Hafta2_Odev\Hafta2_Odev\bin\Debug\Hafta2_Odev.pdb
-C:\Users\berkb\OneDrive\Masaüstü\C#\LAb\Hafta2_Odev\Hafta2_Odev\obj\Debug\Hafta2_Odev.exe
-C:\Users\berkb\OneDrive\Masaüstü\C#\LAb\Hafta2_Odev\Hafta2_Odev\obj\Debug\Hafta2_Odev.pdb
